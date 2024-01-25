@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.kanhu.Eshop.EShopApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.138 s - in com.kanhu.Eshop.EShopApplicationTests

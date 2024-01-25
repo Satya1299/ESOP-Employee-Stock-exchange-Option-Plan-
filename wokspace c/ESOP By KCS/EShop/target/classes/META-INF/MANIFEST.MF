@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: zin22
+Build-Jdk: 17.0.5
+Implementation-Title: EShop
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.kanhu
+Implementation-URL: https://spring.io/projects/spring-boot/EShop
+Created-By: Maven Integration for Eclipse
+
